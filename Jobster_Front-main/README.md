@@ -1,2 +1,2 @@
 # Jobster_Front
-Front-end construido com Angular e Bootstrap
+Front-end construido com Angular, CSS e Bootstrap
